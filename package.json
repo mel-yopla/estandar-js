@@ -1,0 +1,26 @@
+{
+  "name": "estandar",
+  "version": "1.0.0",
+  "description": "Buen código con ESLint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mel-yopla/estandar-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mel-yopla/estandar-js/issues"
+  },
+  "homepage": "https://github.com/mel-yopla/estandar-js#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.12.0",
+    "globals": "^17.13.0"
+  }
+}
