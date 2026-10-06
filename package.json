@@ -4,7 +4,8 @@
   "description": "Buen código con ESLint",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint"
   },
   "repository": {
     "type": "git",
@@ -19,8 +20,8 @@
   },
   "homepage": "https://github.com/mel-yopla/estandar-js#readme",
   "devDependencies": {
-    "@eslint/js": "^10.0.1",
-    "eslint": "^10.12.0",
-    "globals": "^17.13.0"
+    "eslint": "^9.39.5",
+    "globals": "^17.13.0",
+    "neostandard": "^0.13.0"
   }
 }
